@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"UCFL204";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"SUPPLIER";"Schaeffler Technologies AG & Co. KG";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"33-11042019-108457";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Housing units";"";
+"TraceParts.InstanceId";"33-11042019-108457EMLSFWGYKCAGW5XLCYBTI57F";"";
+"TraceParts.PartTitle";"Housing units UCFL, two-bolt flanged housing units, cast iron, grub screws in inner ring, RSR seals";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"SELECTION";"UCFL204";"";
+"TraceParts.ClassPath";"INAFAG:33-11042019-108457";"";
