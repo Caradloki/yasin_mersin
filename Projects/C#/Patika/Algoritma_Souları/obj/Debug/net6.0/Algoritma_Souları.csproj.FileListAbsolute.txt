@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\bin\Debug\net6.0\Algoritma_Souları.exe
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\bin\Debug\net6.0\Algoritma_Souları.deps.json
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\bin\Debug\net6.0\Algoritma_Souları.runtimeconfig.json
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\bin\Debug\net6.0\Algoritma_Souları.dll
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\bin\Debug\net6.0\Algoritma_Souları.pdb
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\obj\Debug\net6.0\Algoritma_Souları.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\obj\Debug\net6.0\Algoritma_Souları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\obj\Debug\net6.0\Algoritma_Souları.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\obj\Debug\net6.0\Algoritma_Souları.AssemblyInfo.cs
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\obj\Debug\net6.0\Algoritma_Souları.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\obj\Debug\net6.0\Algoritma_Souları.dll
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\obj\Debug\net6.0\refint\Algoritma_Souları.dll
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\obj\Debug\net6.0\Algoritma_Souları.pdb
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\obj\Debug\net6.0\Algoritma_Souları.genruntimeconfig.cache
+C:\Users\user\Desktop\İşler\yasin_mersin\Projects\C#\Patika\Algoritma_Souları\obj\Debug\net6.0\ref\Algoritma_Souları.dll
